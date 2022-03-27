@@ -16,7 +16,7 @@ body{
     position: relative;
     height: 600px;
     width: 600px;
-    background: url("/clock.png");
+    background: url("./clock.png");
     background-size: cover;
 }
 footer{
